@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+		<img alt="Welcome message" 
+         src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+PL&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey!+I'm+Lucas+%F0%9F%91%8B%F0%9F%8F%BB"
+    />
+</p>
 
-<!--
-**isaias-alt/isaias-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Developer specialized in **Flutter 💙** Enthusiastic about creating dynamic and easy-to-use applications. Passionate about leveraging cutting-edge technologies to solve complex challenges. Eager to contribute to innovation in a professional environment.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working as a freelancer and on my own projects.
+  
+- 🌱 I’m currently learning everything about Flutter 💙 I’m not stopping!
+  
+- 📫 How to reach me:
+    - Email: cascolucasisaias@gmail.com
+    - [Twitter](https://twitter.com/lucascodev)
+    - [LinkedIn](https://www.linkedin.com/in/lucascodev/)
+    - Check out my [blog](https://fluttermania-dev.vercel.app/)
+  
+- 😄 Pronouns: he/him
+  
+- ⚡ Fun fact: I don't know if i have a fun fact
