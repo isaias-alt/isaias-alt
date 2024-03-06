@@ -4,11 +4,9 @@
     />
 </p>
 
-Mobile Developer specialized in **Flutter 💙** Enthusiastic about creating dynamic and easy-to-use applications. Passionate about leveraging cutting-edge technologies to solve complex challenges. Eager to contribute to innovation in a professional environment.
+Mobile developer with expertise in **Flutter 💙** I’m passionate about building user-friendly and dynamic apps, and I'm always eager to learn new technologies to tackle complex problems. I'm excited to contribute to innovation in a professional setting.
 
-I am also part of the [D-velopers](https://www.d-velopers.com/) community, which makes me very proud
-
-
+I’m also part of the [D-velopers](https://www.d-velopers.com/) community, which makes me very proud
 
 - 🔭 I’m currently working as a freelancer and on my own projects.
   
