@@ -6,7 +6,7 @@
 
 Mobile developer with expertise in **Flutter 💙** I’m passionate about building user-friendly and dynamic apps, and I'm always eager to learn new technologies to tackle complex problems. I'm excited to contribute to innovation in a professional setting.
 
-I’m also part of the [D-velopers](https://www.d-velopers.com/) community, which makes me very proud
+I’m also part of the [D-velopers](https://www.d-velopers.com/) community, which makes me very proud.
 
 - 🔭 I’m currently working as a freelancer and on my own projects.
   
@@ -18,6 +18,6 @@ I’m also part of the [D-velopers](https://www.d-velopers.com/) community, whic
     - [LinkedIn](https://www.linkedin.com/in/lucascodev/)
     - Check out my [blog](https://fluttermania-dev.vercel.app/)
   
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
   
-- ⚡ Fun fact: I don't know if i have a fun fact
+- ⚡ Fun fact: I don't know if i have a fun fact.
