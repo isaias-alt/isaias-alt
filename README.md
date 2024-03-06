@@ -9,6 +9,7 @@ Mobile developer with expertise in **Flutter 💙** I’m passionate about build
 I’m also part of the [D-velopers](https://www.d-velopers.com/) community, which makes me very proud.
 
 - 🔭 I’m currently working as a freelancer and on my own projects.
+	- *Check one out in my latest projects [here](https://github.com/isaias-alt/wikicinema).*
   
 - 🌱 I’m currently learning everything about Flutter 💙 I’m not stopping!
   
@@ -21,3 +22,4 @@ I’m also part of the [D-velopers](https://www.d-velopers.com/) community, whic
 - 😄 Pronouns: he/him.
   
 - ⚡ Fun fact: I don't know if i have a fun fact.
+
