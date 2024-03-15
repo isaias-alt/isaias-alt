@@ -4,7 +4,7 @@
     />
 </p>
 
-Mobile developer with expertise in **Flutter 💙** I’m passionate about building user-friendly and dynamic apps, and I'm always eager to learn new technologies to tackle complex problems. I'm excited to contribute to innovation in a professional setting.
+Mobile developer with expertise in **Flutter 💙** I'm passionate about creating dynamic, easy-to-use apps, and I'm always eager to tackle complex problems. I am excited to contribute to innovation in a professional environment.
 
 I’m also part of the [D-velopers](https://www.d-velopers.com/) community, which makes me very proud.
 
