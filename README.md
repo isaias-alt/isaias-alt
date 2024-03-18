@@ -8,7 +8,7 @@ Mobile developer with expertise in **Flutter 💙** I'm passionate about creatin
 
 I’m also part of the [D-velopers](https://www.d-velopers.com/) community, which makes me very proud.
 
-- 🔭 I’m currently working as a freelancer and on my own projects, i’m open to work.
+- 🔭 I’m currently working as a freelancer and on my own projects, i’m open to work
 	- *Check one out in my latest projects [here](https://github.com/isaias-alt/wikicinema).*
   
 - 🌱 I’m currently learning everything about Flutter 💙 I’m not stopping!
