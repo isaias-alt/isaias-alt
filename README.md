@@ -17,7 +17,7 @@ I’m also part of the [D-velopers](https://www.d-velopers.com/) community, whic
     - Email: cascolucasisaias@gmail.com
     - [Twitter](https://twitter.com/lucascodev)
     - [LinkedIn](https://www.linkedin.com/in/lucascodev/)
-    - Check out my personal [blog](https://fluttermania.hashnode.dev/)
+    - Check out my [blog](https://fluttermania.hashnode.dev/)
   
 - 😄 Pronouns: he/him.
   
