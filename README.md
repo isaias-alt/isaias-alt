@@ -10,8 +10,6 @@ I’m also part of the [D-velopers](https://www.d-velopers.com/) community, whic
 
 - 🔭 I’m currently working as a freelancer and on my own projects, i’m open to work.
   
-- 🌱 I’m currently learning everything about Flutter 💙 I’m not stopping!
-  
 - 📫 How to reach me:
     - Email: cascolucasisaias@gmail.com
     - [Twitter](https://twitter.com/lucascodev)
