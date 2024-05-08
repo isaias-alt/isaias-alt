@@ -4,9 +4,9 @@
     />
 </p>
 
-Software Engineer focused Mobile Development with expertise in Flutter 💙 I’m passionate about building user-friendly and dynamic apps, and I'm always eager to learn new technologies to tackle complex problems. I'm excited to contribute to innovation in a professional setting.
+I'm Lucas, FrontEnd Web Developer from Paraguay with +3 years of experience. I’m passionate about building user-friendly and dynamic interfaces and open-source software. For the last years, I have worked as a freelancer offering solutions to help companies and businesses display and market their products effectively.
 
-- 🔭 I’m currently working as a freelancer and on my own projects, i’m open to work.
+- 🔭 I’m open to work.
   
 - 📫 How to reach me:
     - Email: cascolucasisaias@gmail.com
