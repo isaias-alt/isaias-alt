@@ -4,7 +4,7 @@
     />
 </p>
 
-I'm Lucas, FrontEnd Developer from Paraguay with +3 years of experience. I’m passionate about building user-friendly and dynamic interfaces and open-source software. For the last years, I have worked as a freelancer offering solutions to help companies and businesses display and market their products effectively.
+I'm Lucas, FrontEnd Developer from Paraguay with +3 years of experience. I’m passionate about building user-friendly and dynamic interfaces and open-source software. For the last years, I have worked as a freelancer offering solutions to help companies and businesses display and market their products effectively..
 
 - 🔭 I’m open to work.
   
