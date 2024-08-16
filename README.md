@@ -16,4 +16,3 @@ I'm Lucas, FrontEnd Developer from Paraguay with +3 years of experience. I’m p
 - 😄 Pronouns: he/him.
   
 - ⚡ Fun fact: I don't know if i have a fun fact.
-
