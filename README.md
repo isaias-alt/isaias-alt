@@ -6,6 +6,13 @@
 
 I'm a Frontend Developer from Paraguay with over 3 years of experience.
 
-I'm passionate about creating dynamic, user friendly interfaces and contributing to open source software. Over the past few years, I've worked as a freelancer, providing solutions to help companies and businesses effectively showcase and market their products:
+I'm passionate about creating dynamic, user friendly interfaces and contributing to open source software. Over the past few years, I've worked as a freelancer, providing solutions to help companies and businesses effectively showcase and market their products
 
-Email: cascolucasisaias@gmail.com | [Twitter](https://twitter.com/lucascodev) | [LinkedIn](https://www.linkedin.com/in/lucascodev/)
+<div align='center'>
+  <samp>
+    <a href='mailto:cascolucasisaias@gmail.com/'>email</a> •
+    <a href='https://lucasco.dev/'>website</a> •
+    <a href='https://www.linkedin.com/in/lucascodev'>linkedin</a> •
+    <a href='https://x.com/lucascodev'>twitter</a>
+  </samp>
+</div>
