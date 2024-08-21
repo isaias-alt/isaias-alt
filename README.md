@@ -1,6 +1,6 @@
 <p align="center">
-		<img alt="Welcome message" 
-         src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+PL&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey!+I'm+Lucas+%F0%9F%91%8B%F0%9F%8F%BB"
+    <img alt="Welcome message" 
+        src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code+PL&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey!+I'm+Lucas+%F0%9F%91%8B%F0%9F%8F%BB"
     />
 </p>
 
